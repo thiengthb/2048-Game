@@ -1,7 +1,7 @@
 ### 2048-Game
-#### Cách sử dụng: 
+### Cách sử dụng: 
 Nhấn các phím WASD.
-#### Mục tiêu: 
+### Mục tiêu: 
 Đạt được 2048 điểm.
 
 
